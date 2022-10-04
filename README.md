@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Irina Deeva
-#### AI/ML researcher in the NSSLab at ITMO University
+#### AI/ML researcher in the NSSLab at ITMO University :computer: 
 
 I am engaged in the study of Bayesian networks and modeling of real world objects using Bayesian networks.
 
