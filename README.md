@@ -12,7 +12,7 @@ I also manage the 'BNgroup' team, you can read about our achievements here:
 [An article about how to model oil and gas using BN](https://link.springer.com/chapter/10.1007/978-3-030-77961-0_33)
 
 
-[An article about how to generate synthetics using BN](https://link.springer.com/chapter/10.1007/978-3-030-77961-0_33)
+[An article about how to generate synthetics using BN](https://dl.acm.org/doi/abs/10.1145/3411170.3411243)
 
 
 [An article about how to smartly constructu BN](https://www.sciencedirect.com/science/article/pii/S1877050921020925)
