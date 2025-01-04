@@ -1,24 +1,15 @@
-### Hi there 👋
-### I'm Irina Deeva
-#### AI/ML researcher in the NSSLab at ITMO University :computer: 
+###  I'm Irina Deeva
+#### Researcher in Artificial Intelligence and Machine Learning | ITMO University :computer: 
+[GitHub: Anaxagor](https://github.com/Anaxagor) | [Google Scholar](https://scholar.google.ru/citations?hl=ru&user=e2bTUkMAAAAJ)
 
-I am engaged in the study of Bayesian networks and modeling of real world objects using Bayesian networks.
+#### Core Competencies:
 
-I am one of the main developers of [BAMT](https://github.com/ITMO-NSS-team/BAMT) - a framework for working with Bayesian networks.
+- Causal Models & Inference
+- Bayesian Networks & Probabilistic Graphical Models
+- Controlled Synthetic Data Generation
+- Data-Driven Decision Making in Industrial Applications
 
-I also manage the probAI team, you can read about our achievements here:
+#### Notable Project:
+[BAMT](https://github.com/aimclub/BAMT)
 
-
-[An article about how to model oil and gas using BN](https://link.springer.com/chapter/10.1007/978-3-030-77961-0_33)
-
-
-[An article about how to generate synthetics using BN](https://dl.acm.org/doi/abs/10.1145/3411170.3411243)
-
-
-[An article about how to smartly constructu BN](https://www.sciencedirect.com/science/article/pii/S1877050921020925)
-
-
-
-More information about our work can be found in my [Google Scholar account](https://scholar.google.ru/citations?hl=ru&user=e2bTUkMAAAAJ).
-
-
+A robust tool for constructing Bayesian networks, facilitating uncertainty modeling and complex dependency analysis in data.
